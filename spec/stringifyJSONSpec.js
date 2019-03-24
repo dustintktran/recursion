@@ -17,7 +17,7 @@ describe('stringifyJSON', function() {
   });
 });
  // var arrayBegin = true;
-var stringifyJSON = function(input){
+/*var stringifyJSON = function(input){
   var array = [];
   if(typeof input == "string"){
     var string = '"' + input + '"';
@@ -56,4 +56,4 @@ var stringifyJSON = function(input){
       return "{" + array + "}";
     }
   }
-}
+}*/
